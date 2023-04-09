@@ -81,7 +81,19 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="bin\Debug\" />
+    <None Include="bin\Debug\Excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\word.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\PowerPoint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\edge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cmd.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
